@@ -1,0 +1,3 @@
+name: 𝙎𝙝𝙧𝙤𝙪𝙙 { 🇮🇳 }
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
